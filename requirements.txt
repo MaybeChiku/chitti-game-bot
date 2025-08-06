@@ -1,0 +1,8 @@
+pymongo
+motor
+dnspython
+tgcrypto
+asyncio
+python-dotenv
+aiohttp
+git+https://github.com/Mayuri-Chan/pyrofork
