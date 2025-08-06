@@ -1,8 +1,8 @@
-pymongo
-motor
-dnspython
-tgcrypto
-asyncio
-python-dotenv
-aiohttp
-git+https://github.com/Mayuri-Chan/pyrofork
+pyrofork==2.3.61
+pymongo==4.6.1
+motor==3.3.2
+dnspython==2.4.2
+tgcrypto==1.2.5
+asyncio==3.4.3
+python-dotenv==1.0.0
+aiohttp==3.9.1
