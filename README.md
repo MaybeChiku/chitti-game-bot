@@ -166,7 +166,7 @@ This project is open source. Feel free to use, modify, and distribute according 
 
 ## 🎉 Acknowledgments
 
-- Built with [Pyrogram](https://github.com/pyrogram/pyrogram) - Modern Telegram Bot API framework
+- Built with [pyrofork](https://github.com/pyrofork/pyrofork) – A modern fork of the Pyrogram Telegram Bot API framework
 - Database powered by [MongoDB](https://www.mongodb.com/)
 - Deployed on [Heroku](https://www.heroku.com/) and [Docker](https://www.docker.com/)
 
