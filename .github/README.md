@@ -169,7 +169,3 @@ This project is open source. Feel free to use, modify, and distribute according 
 - Built with [pyrofork](https://github.com/pyrofork/pyrofork) – A modern fork of the Pyrogram Telegram Bot API framework
 - Database powered by [MongoDB](https://www.mongodb.com/)
 - Deployed on [Heroku](https://www.heroku.com/) and [Docker](https://www.docker.com/)
-
----
-
-**This project is open source and available for use and modification.**
