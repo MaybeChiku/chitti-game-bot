@@ -158,7 +158,7 @@ Contributions are welcome! Please fork the repository, create a feature branch f
 
 This project is open source. Feel free to use, modify, and distribute according to your needs.
 
-## 🐛 Bug Reports & Support
+## 🛠️ Bug Reports & Support
 
 - **Issues**: Report bugs via GitHub Issues
 - **Feature Requests**: Suggest new features in Issues
